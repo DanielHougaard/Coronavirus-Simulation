@@ -13,6 +13,7 @@
 
 # TODO
 * Log more data about the simulation
+* Make the simulation data more liable 
 * Cross-platform support
 * Implement age
 * Implement death
