@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\RouterRage\source\repos\COVID Simulation\COVID Simulation\main.cpp(10,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\RouterRage\source\repos\COVID Simulation\COVID Simulation\main.cpp(11,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+  simulation.cpp
+C:\Users\RouterRage\source\repos\COVID Simulation\COVID Simulation\simulation.cpp(10,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\RouterRage\source\repos\COVID Simulation\COVID Simulation\simulation.cpp(46,50): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  COVID Simulation.vcxproj -> C:\Users\RouterRage\source\repos\COVID Simulation\Debug\COVID Simulation.exe
